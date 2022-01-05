@@ -44,6 +44,7 @@ INSERT INTO `transaction` (`sno`, `sender`, `receiver`, `balance`, `datetime`) V
 (2, 'Nibbles', 'Bob', 640, '2021-02-14 20:44:53'),
 (3, 'Nibbles', 'Scooby', 455, '2021-02-15 07:34:22');
 
+
 -- --------------------------------------------------------
 
 --
@@ -62,7 +63,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
-(1, 'Deep Rakesh', 'deep@gmail.com', 48955),
+(1, 'Srivatsa', 'sri@gmail.com', 48955),
 (2, 'Tom', 'tomascat@gmail.com', 35000),
 (3, 'Jerry', 'jerrymouse@gmail.com', 40691),
 (4, 'Bob', 'bobthebuilder@gmail.com', 48590),
@@ -97,7 +98,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `transaction`
 --
 ALTER TABLE `transaction`
-  MODIFY `sno` int(3) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `sno` int(3) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `users`

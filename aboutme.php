@@ -134,8 +134,8 @@ display:inline-block;
 	
 			/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
 .icon-bar {
-  position: relative;
-  top: 40px; left: 430px; width: 50px;
+  position: fixed;
+  top: 200px; left: 300px; width: 50px;
   border-radius:100px;
   
 
@@ -203,13 +203,12 @@ li:hover{
 	
 			<div id="main">
 			
-				<h2 style="position:relative; left: 170px;  text-shadow: 3px 2px 5px pink; font-family: 'Montserrat', sans-serif;">Mr. Deep Rakesh</h2>
+				<h2 style="position:relative; left: 190px;  text-shadow: 3px 2px 5px pink; font-family: 'Montserrat', sans-serif;">Mr. Srivatsa N</h2>
 				<centre><img style="width:200px; height: 200px; border-radius:20px;border: 3px solid white ;position:relative; left:170px;box-shadow: 0 0 128px 0 rgba(0,0,0,0.1),
-				0 32px 64px -48px rgba(0,0,0,0.5); " src="img/profile.jpg"></centre>
+				0 32px 64px -48px rgba(0,0,0,0.5); " src="img/sriphoto.jpg"></centre>
 
 			    <p style= "position: relative; left:20px;" >
-				Final year student at BMSIT, Bangalore.
-				 I am currently working as an intern for The Sparks Foundation.
+				Pre-Final year student at Sambhram College, Bangalore.
 				<br>I am a Creative student with passion for learning new technologies, 
 				having strong interest in software design and development.
 			  </p>
@@ -221,9 +220,9 @@ li:hover{
 <!-- The social media icon bar -->
 <div class="icon-bar">
   
-  <a href="https://twitter.com/DeepRakesh0902" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-  <a href="https://github.com/Deep0902" class="github" target="_blank"><i class="fa fa-github"></i></a>
-  <a href="https://www.linkedin.com/in/deeprakesh/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
+  <!-- <a href="https://twitter.com/DeepRakesh0902" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a> -->
+  <a href="https://github.com/Srivatsa2309/Basic-Banking-System.git" class="github" target="_blank"><i class="fa fa-github"></i></a>
+  <!-- <a href="https://www.linkedin.com/in/deeprakesh/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a> -->
 </div>
 	
 

@@ -1,16 +1,16 @@
 <?php 
 
 //Development connection
-// $server="localhost";
-// $username="root";
-// $password="";
-// $db="Bank Database";
+$server="localhost";
+$username="root";
+$password="";
+$db="sparks_bank";
 
 //Remote database connection
-$server="remotemysql.com";
-$username="doTaVHN16m";
-$password="Ct0Edzczf3";
-$db="doTaVHN16m";
+// $server="remotemysql.com";
+// $username="doTaVHN16m";
+// $password="Ct0Edzczf3";
+// $db="doTaVHN16m";
 
 $conn=mysqli_connect($server,$username,$password,$db);
 

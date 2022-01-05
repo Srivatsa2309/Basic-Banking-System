@@ -15,7 +15,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
-    <title>Basic Banking System</title>
+    <title>Electronic Fund Transfer</title>
     <style type="text/css">
         button{
             transition: 0.5s;
@@ -78,7 +78,7 @@
         <div class="intro py-1">
             <div >
                 <div>
-                   <h1>Welcome to Basic Banking System</h1>
+                   <h1>Welcome to Electronic Fund Transfer</h1>
                 </div>
             </div>
             <div class="col-sm-12 col-md img text-center">
@@ -110,7 +110,7 @@
     
     
     <footer class="text-center mt-5 py-2">
-        <p>&copy 2021. Made by <b> Srivatsa</b> <br> For the Project of  <b>The Sparks Foundation</b> </html><br>Check out my project on <a href="https://github.com/Deep0902/Basic-Banking-System.git" target="_blank">GitHub</a></p>
+        <p>&copy 2021. Made by <b> Srivatsa N</b> </html><br>Check out my project on <a href="https://github.com/Srivatsa2309/Basic-Banking-System.git" target="_blank">GitHub</a></p>
 
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

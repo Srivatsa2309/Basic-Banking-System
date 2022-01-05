@@ -69,7 +69,7 @@ display:inline-block;
       <div style="background-color: gray;background-color: #9dc5c3;
     background-image: linear-gradient(315deg, #595959 0%, #6e6e6e 74%);" class="card">
         <i class="card-icon fas fa-phone"></i>
-        <p>+91 94834 23335</p>
+        <p>+91 78924 10132</p>
       </div>
 
       <div style="background-color: gray;background-color: #9dc5c3;
